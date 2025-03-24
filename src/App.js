@@ -51,7 +51,7 @@ function App() {
   const handleMouseLeave = () => !isMobile && setIsSidebarOpen(false);
 
   return (
-    <Router>
+    <Router basename="/innova-chamadas-template">
       <div className={`app-container ${isSidebarOpen ? 'sidebar-open' : 'sidebar-closed'}`}>
         {isLoggedIn && (
           <>
