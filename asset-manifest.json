@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/innova-chamadas-template/static/css/main.5ea8cf5f.css",
-    "main.js": "/innova-chamadas-template/static/js/main.2b5fbc8c.js",
+    "main.js": "/innova-chamadas-template/static/js/main.f4331f1e.js",
     "static/js/239.ffa27a65.chunk.js": "/innova-chamadas-template/static/js/239.ffa27a65.chunk.js",
     "static/js/213.1c2def6e.chunk.js": "/innova-chamadas-template/static/js/213.1c2def6e.chunk.js",
     "static/js/732.0d7324c2.chunk.js": "/innova-chamadas-template/static/js/732.0d7324c2.chunk.js",
     "static/media/logomarca-oficial.png": "/innova-chamadas-template/static/media/logomarca-oficial.2aec5f854b1854005944.png",
     "index.html": "/innova-chamadas-template/index.html",
     "main.5ea8cf5f.css.map": "/innova-chamadas-template/static/css/main.5ea8cf5f.css.map",
-    "main.2b5fbc8c.js.map": "/innova-chamadas-template/static/js/main.2b5fbc8c.js.map",
+    "main.f4331f1e.js.map": "/innova-chamadas-template/static/js/main.f4331f1e.js.map",
     "239.ffa27a65.chunk.js.map": "/innova-chamadas-template/static/js/239.ffa27a65.chunk.js.map",
     "213.1c2def6e.chunk.js.map": "/innova-chamadas-template/static/js/213.1c2def6e.chunk.js.map",
     "732.0d7324c2.chunk.js.map": "/innova-chamadas-template/static/js/732.0d7324c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5ea8cf5f.css",
-    "static/js/main.2b5fbc8c.js"
+    "static/js/main.f4331f1e.js"
   ]
 }
